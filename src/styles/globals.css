@@ -1,0 +1,201 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --microcis_blue: 210, 99%, 72%;
+    --microcis_blue_light: 200, 95%, 65%;
+    --microcis_green: 159, 66%, 42%;
+    --microcis_yellow: 51, 97%, 53%;
+
+    --microcis_light_blue: 211, 97%, 88%;
+    --microcis_light_green: 164, 100%, 92%;
+    --microcis_light_yellow: 50, 60%, 79%, 0.925;
+  }
+}
+
+.swiper-wrapper {
+  height: max-content !important;
+
+  width: max-content;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  top: 25%;
+  z-index: 1000;
+}
+
+.swiper-button-next {
+  right: -0px !important;
+}
+
+.swiper-button-prev {
+  left: 0px !important;
+}
+
+.swiper-button-prev:after,
+.swiper-rtl .swiper-button-next:after {
+  content: '' !important;
+}
+
+.mySwiper {
+  max-width: 320px !important;
+  margin: 0 auto !important;
+}
+
+.swiper-button-next:after,
+.swiper-rtl .swiper-button-prev:after {
+  content: '' !important;
+}
+
+.mySwiper .swiper-slide.swiper-slide-thumb-active > .swiper-slide\:w-16 {
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+    rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+    scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
+.mySwiper
+  .swiper-slide.swiper-slide-thumb-active
+  > .swiper-slide\:border-indigo-600 {
+  --tw-border-opacity: 1;
+  border-color: rgb(79 70 229 / var(--tw-border-opacity));
+}
+
+.teamswiper .swiper-wrapper {
+  height: max-content !important;
+  padding-bottom: 64px !important;
+}
+
+.teamswiper .swiper-horizontal > .swiper-scrollbar,
+.teamswiper .swiper-scrollbar.swiper-scrollbar-horizontal {
+  max-width: 140px !important;
+  height: 3px !important;
+  bottom: 25px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+
+.teamswiper .swiper-pagination-fraction {
+  bottom: 0 !important;
+  padding-top: 16px !important;
+}
+
+.teamswiper .swiper-slide.swiper-slide-active > .slide\:border-indigo-600 {
+  --tw-border-opacity: 1;
+  border-color: rgb(79 70 229 / var(--tw-border-opacity));
+}
+
+.teamswiper .swiper-pagination-total {
+  color: rgb(156 163 175) !important;
+}
+
+.teamswiper .swiper-scrollbar-drag {
+  background: rgb(79 70 229);
+}
+
+.teamswiper .swiper-pagination-fraction {
+  bottom: 0 !important;
+}
+
+.teamswiper .swiper-button-prev:after,
+.teamswiper .swiper-rtl .swiper-button-next:after {
+  content: '' !important;
+}
+
+.teamswiper .swiper-button-prev {
+  top: 93% !important;
+  left: 35% !important;
+  z-index: 100 !important;
+}
+
+.teamswiper .swiper-button-next {
+  top: 93% !important;
+  right: 35% !important;
+  z-index: 100 !important;
+}
+
+.teamswiper .swiper-button-next:after,
+.teamswiper .swiper-rtl .swiper-button-prev:after {
+  content: '' !important;
+}
+
+.teamswiper .swiper-button-next svg,
+.teamswiper .swiper-button-prev svg {
+  width: 24px !important;
+  height: 24px !important;
+}
+
+.estimateStepper::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.estimateStepper {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+video {
+  clip-path: inset(1px 1px);
+}
+
+@keyframes underline-from-left {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.underline-animation {
+  position: relative;
+}
+
+.underline-animation::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 2px;
+  background-color: var(--ourYellow);
+  width: 0;
+  transition: width 0.3s ease;
+}
+
+.underline-animation:hover::after,
+.underline-animation:focus::after,
+.underline-animation[data-active]::after,
+.underline-animation[data-state='open']::after {
+  width: 100%;
+}
+
+.custom-swiper-pagination {
+  background-color: #1f2937 !important;
+  border-radius: 9999px !important;
+  width: fit-content !important;
+  height: fit-content !important;
+  padding: 5px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 0 auto !important;
+  margin-top: 30px !important;
+}
+
+.swiper-pagination-bullet {
+  width: 35px !important;
+  height: 35px !important;
+  padding: 5px !important;
+  opacity: 0.5 !important;
+  transition: opacity 0.3s ease !important;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1 !important;
+  border-radius: 9999px !important;
+  background-color: rgba(237, 237, 237, 1) !important;
+}

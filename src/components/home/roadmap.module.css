@@ -1,0 +1,303 @@
+.roadMapSection {
+  padding: 6rem 0rem 22rem 2rem;
+  max-width: 100%;
+}
+.classMaxWidthApp {
+  max-width: var(--maxWidthApp);
+  margin: auto auto;
+}
+.processTitle {
+  font-size: 35px;
+  font-weight: 350;
+  text-align: start;
+}
+.roadMapContainer {
+  margin-top: 6rem;
+}
+
+.firstStep {
+  display: flex;
+  align-items: center;
+}
+
+.roadmap_finallArrow {
+  width: 10rem;
+  height: 200px;
+  border-radius: 0 35px 0 0;
+  border: 3px dashed #25b381;
+  border-bottom: none;
+  border-left: none;
+  margin-top: -2rem;
+  display: inline;
+}
+
+.stepNum {
+  width: 53px;
+  height: 53px;
+  background-color: #25b381;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+}
+.steptext {
+  width: 70%;
+  margin-left: 30px;
+  background-color: #25b381;
+  padding: 25px 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 35px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.otherSteps {
+  margin-top: 4rem;
+  display: flex;
+}
+.leftside {
+  max-width: 30%;
+  height: 570px;
+  border-radius: 0px 35px 0px 0px;
+  border: #25b381 dashed 3px;
+  border-left: none;
+  border-bottom: none;
+}
+.otherSteps .leftside p {
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 3rem;
+  padding: 3rem 2.8rem 0rem 0rem;
+  width: 82%;
+  text-align: justify;
+}
+
+.rightSide {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}
+.moreSteps {
+  display: flex;
+  flex-direction: column;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  margin-left: -1.5rem;
+}
+
+.otherStepNum {
+  width: 45px;
+  height: 45px;
+  background-color: #fcdb14;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.otherSteptext {
+  width: 58%;
+  margin-left: 30px;
+  background-color: #fcdb14;
+  padding: 25px 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 35px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.description {
+  width: 62%;
+  padding: 2rem 0 0 4rem;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 2.5rem;
+  margin-bottom: 4rem;
+  text-align: justify;
+}
+
+.last {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  max-width: 60%;
+  float: right;
+  margin-right: 130px;
+}
+
+.lastStep {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.lastStepNum {
+  width: 45px;
+  height: 45px;
+  background-color: #dfdfdf;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.lastSteptext {
+  width: 80%;
+  margin-right: 30px;
+  background-color: #dfdfdf;
+  padding: 25px 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 35px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.lastDescription {
+  padding: 2rem 4rem 4rem;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 2.5rem;
+  text-align: justify;
+}
+
+.minSize {
+  display: none;
+}
+
+.leftsidesmall {
+  display: none;
+  padding: 2rem 0rem 2rem;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 2.5rem;
+  text-align: justify;
+}
+
+@media only screen and (max-width: 900px) {
+  .roadMapSection {
+    padding: 6rem 0rem 2rem 2rem;
+  }
+  .roadMapContainer {
+    width: 100%;
+    align-items: center;
+    margin-top: 4rem;
+  }
+
+  .leftside {
+    display: none;
+  }
+  .leftsidesmall {
+    display: block;
+  }
+  .first {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .firstStep {
+    width: 90%;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 0rem;
+  }
+  .steptext {
+    width: 100%;
+    margin-left: 0px;
+    padding: 20px 28px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .moreSteps {
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .step {
+    width: 90%;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 0rem;
+    margin-bottom: 1.5rem;
+  }
+  .otherSteptext {
+    width: 100%;
+    margin-left: 0px;
+    background-color: #fcdb14;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .description {
+    width: 90%;
+    padding: 0 0 0 0;
+    text-align: justify;
+  }
+  .last {
+    display: none;
+  }
+  .minSize {
+    display: block;
+  }
+  .roadmap_finallArrow {
+    display: none;
+  }
+
+  .stepNum,
+  .otherStepNum {
+    width: 25px;
+    height: 25px;
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  .steptext,
+  .otherSteptext {
+    width: 90%;
+    padding: 15px 18px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .description,
+  .lastDescription {
+    width: 80%;
+    padding: 0px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 2.5rem;
+    margin-bottom: 4rem;
+    text-align: justify;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .roadMapSection {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .leftsidesmall {
+    display: block;
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "topNav": {
+    "address": "Ferdowsi 12, Herat, Afghanistan",
+    "phone": "+93 (0) 796 58 4747",
+    "email": "info@rahafoundation.af",
+    "link": "Volunteer",
+    "languages": {
+      "label": "Language",
+      "en": "English",
+      "da": "Persian (Dari)",
+      "pa": "Pashto"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "gallery": "Gallery",
+    "boutique": "Boutique",
+    "team": "Team",
+    "contact": "Contact",
+    "primaryCTA": "Donate",
+    "volunteer": "Be a volunteer"
+  },
+  "index": {
+    "hero": {
+      "heading": {
+        "text": "Let’s Make a",
+        "highlighted": "Positive Impact"
+      },
+      "lead": "Providing child laborers with vital resources and educational initiatives, fostering a future where every child has the chance to thrive.",
+      "primaryCTA": "Be a volunteer",
+      "secondaryCTA": "Know more",
+      "cards": {
+        "leftCard": {
+          "title": "38.4%",
+          "lead": "Children in Afghanistan are engaged in child labor.",
+          "button": "Donate Now"
+        },
+        "health": {
+          "title": "Health",
+          "lead": "Empowering Wellness"
+        },
+        "education": {
+          "title": "Education",
+          "lead": "Nurturing Knowledge"
+        },
+        "leftLowerCard": "Let them be heard.",
+        "middleCard": "The Supporter Of Our Mission",
+        "middleCardButton": "Explore",
+        "rightCard": "Explore more",
+        "rightLowerCard": "A haven for child laborers."
+      }
+    },
+    "features": {
+      "heading": "A hope amidst the darkness",
+      "lead": "<p>Let's unite and be the voice of child laborers, hand in hand.</p><p>Every child is a life. Every life matters.</p>",
+      "education": {
+        "heading": "Education for All",
+        "lead": "Empowering every child with access to quality education for a brighter future."
+      },
+      "healthCare": {
+        "heading": "Healthcare",
+        "lead": "Ensuring children's well-being through compassionate and comprehensive healthcare services."
+      },
+      "sustainable": {
+        "heading": "Sustainable Future",
+        "lead": "Fostering a sustainable future through innovative solutions and collective action for generations to come."
+      }
+    },
+    "programs": {
+      "heading": "Explore our Causes and Updates",
+      "lead": "Explore impactful initiatives — from education to sustainability. Join us in building a world where kindness creates lasting change.",
+      "cta": "View all programs"
+    },
+    "reviews": {
+      "heading": "Whispers of Hope",
+      "lead": "Join us in illuminating dreams for orphaned children — your support turns aspirations into joy, brightening futures with hope."
+    },
+    "donateCard": {
+      "eyebrow": "Empower Change",
+      "heading": "Today's Children Build Tomorrow's Future",
+      "lead": "Empower the next generation through education, opportunity, and compassion to shape a brighter future for all.",
+      "donateButton": "Donate",
+      "donateDescription": "Your donation will provide <bold>1 month</bold> education for a child, ensuring they have the opportunity to pursue a brighter future."
+    },
+    "instagramFeed": {
+      "heading": "Follow us on Instagram",
+      "lead": "See the world through our lens.",
+      "cta": "Visit us on Instagram"
+    }
+  },
+  "about": {
+    "heading": "Uniting Hearts, <highlighted>Rebuilding Dreams</highlighted>",
+    "lead": "As a steadfast force for positive change, Raha Charity Foundation is dedicated to shaping a brighter future for Afghanistan. With unwavering commitment, innovative solutions, and collective efforts, we are driving transformative change to uplift Afghan community.",
+    "partners": "Our Exclusive Partners",
+    "mission": {
+      "heading": "Our mission",
+      "1stParagraph": "At Raha Charity Foundation, our unwavering mission since July 2019 has been to support and empower child laborers, striving to make a meaningful impact in their lives. We are deeply committed to providing them with holistic assistance, addressing their multifaceted needs with compassion and dedication. Our comprehensive support encompasses crucial elements such as education, healthcare services, psychosocial support, nutritional provisions, transportation, clothing, and beyond.",
+      "2ndParagraph": "By addressing these fundamental needs, we aim to break the cycle of exploitation and poverty, fostering an environment where these children can thrive and realize their full potential. Through our tireless efforts and the unwavering support of our dedicated partners and supporters, we endeavor to create a brighter, more hopeful future for each child we serve.",
+      "3rdParagraph": "Together, we believe in the inherent worth and potential of every child, working tirelessly to uplift and empower them to contribute positively to society."
+    },
+    "ourValues": {
+      "heading": "Our values",
+      "lead": "At Raha Charity Foundation, our core values shape everything we do. They guide our actions and define who we are.",
+      "compassion": {
+        "heading": "Compassion",
+        "lead": "We show empathy and kindness in all interactions, uplifting those in need with genuine care and understanding."
+      },
+      "integrity": {
+        "heading": "Integrity",
+        "lead": "We uphold honesty and transparency, ensuring accountability and trustworthiness in all our endeavors."
+      },
+      "collaboration": {
+        "heading": "Collaboration",
+        "lead": "We work together with partners and communities, fostering cooperation to achieve our shared goals effectively."
+      },
+      "empowerment": {
+        "heading": "Empowerment",
+        "lead": "We empower individuals to reach their full potential, providing resources and opportunities for personal growth and success."
+      },
+      "innovation": {
+        "heading": "Innovation",
+        "lead": "We embrace creativity and innovation, continuously seeking new solutions to address complex challenges and improve our impact."
+      },
+      "resilience": {
+        "heading": "Resilience",
+        "lead": "We persevere in the face of adversity, adapting and learning from setbacks to drive positive change and lasting impact."
+      }
+    },
+    "ourTeam": {
+      "heading": "The People Behind Our Mission",
+      "lead": "Our mission thrives on our dedicated team members. Their unique skills and energy make a positive impact every day. Meet the colleagues making a difference.",
+      "activities": "Activities",
+      "cta": "Get to Know Us"
+    },
+    "ourColleagues": {
+      "heading": "Our Colleagues",
+      "lead": "Meet our dedicated team members who drive our mission forward with passion and expertise.",
+      "activities": "Activities"
+    },
+    "ourVolunteer": {
+      "heading": "Our Volunteers",
+      "lead": "Join our passionate team of volunteers shaping a better tomorrow.",
+      "activities": "Activities"
+    },
+    "programs": {
+      "heading": "Explore our <link>Causes and Updates</link>",
+      "lead": "Explore impactful initiatives — from education to sustainability. Join us in building a world where kindness creates lasting change."
+    }
+  },
+  "programs": {
+    "heading": "Programs",
+    "lead": "Learn about our initiatives designed to empower and support communities in need.",
+    "readMore": "Read more"
+  },
+  "gallery": {
+    "heading": "Gallery",
+    "lead": "Explore our programs and initiatives in our engaging photo gallery."
+  },
+  "boutique": {
+    "heading": "Explore Our boutique and Support our Cause",
+    "lead": "Explore our Boutique for unique, handcrafted original products that empower child laborers and build their future.",
+    "currency": "AFN",
+    "copyCode": "Copy product code",
+    "codeCopied": "Product code copied",
+    "boutiqueGuide": {
+      "heading": "How to Buy",
+      "lead": "Ready to buy our foundation's handmade children's products?",
+      "subLead": "Just follow these easy steps.",
+      "step1": "Copy Code",
+      "step1Lead": "Copy the product code from our boutique page.",
+      "step2": "Contact Us",
+      "step2Lead": "Paste the code and order details in the Contact Us message field.",
+      "step3": "Await Response",
+      "step3Lead": "Wait for our response within 24 hours."
+    }
+  },
+  "team": {
+    "heading": "Team",
+    "lead": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam rem quas quisquam cupiditate."
+  },
+  "donors": {
+    "label": "Our Donor",
+    "heading": "Rahanet - Empowering the Next Generation",
+    "lead": "Rahanet supports child laborers by investing in education, breaking the cycle of poverty, and paving the way for their better future. Learn more about Rahanet's impact.",
+    "mainHeading": "Rahanet",
+    "mainLead": "Empowering Afghanistan Through Cutting-Edge Internet Services",
+    "1stParagraph": "Rahanet is a national Afghan internet service provider that started its operations in 2013. Since its establishment, Rahanet has thrived in its primary goal: to deliver high-quality internet services across Afghanistan. The company operates actively in several key cities, including Herat, Kabul, Jalalabad, Mazar-e-Sharif, and Badghis, ensuring widespread access to reliable internet connectivity.",
+    "2ndParagraph": "Rahanet is at the forefront of providing a diverse range of internet services tailored to meet the varying needs of its customers. These services include high-quality Optical Fiber, Wireless Internet Services, Satellite Internet, VoIP, and Microwave technologies. Beyond these, Rahanet has also made significant strides in Software Development, demonstrating its versatility and commitment to technological advancement.",
+    "3rdParagraph": "Rahanet stands out as a leading technology company for Afghanistan, bridging the digital divide, empowering the Afghan community. Focused on innovation and robust infrastructure, Rahanet enhances user experience and contributes to economic development, earning a reputation as a trusted provider in the Afghan telecommunications landscape.",
+    "subHeading": "Raha Charity Foundation",
+    "subLead": "Let’s Make a Positive Impact",
+    "4thParagraph": "Rahanet, renowned for its exceptional internet services, has set higher goals to support Afghanistan's vulnerable populations. Afghanistan, a third-world country, faces immense challenges, particularly for its children and women. Despite numerous national and international organizations working to assist these groups, the need for additional support remains because many of these efforts focus on short-term goals, failing to make a lasting impact.",
+    "5thParagraph": "To address this gap, Rahanet founded the Raha Charity Foundation (RCF) in 2019, aiming to make a significant difference in the lives of child laborers. RCF's mission is to provide these children with education, skill development, and opportunities to thrive in the Afghan society. By focusing on long-term solutions, RCF seeks to break the cycle of poverty and exploitation that entraps many children.",
+    "6thParagraph": "Rahanet has been the sole donor of RCF since its inception, playing a crucial role in sustaining the charity. This support has enabled RCF to implement various programs, including access to education, healthcare, psychosocial services, transportation, nutrition, vocational training, community awareness campaigns and etc. These initiatives highlight the importance of education and the dangers of child labor.",
+    "7thParagraph": "RCF also collaborates with local authorities and communities to create a supportive environment for the children. By engaging parents, schools, and community leaders, RCF ensures that children not only attend school but also receive the necessary support to succeed academically and socially.",
+    "8thParagraph": "Rahanet’s ongoing support has been vital in maintaining and expanding these efforts. As a result, RCF has made a tangible difference in many children's lives, providing them with hope and the possibility of a brighter future. Rahanet’s commitment to this cause underscores its dedication to corporate social responsibility and its belief in the transformative power of education.",
+    "9thParagraph": "Rahanet's initiative to found and support the Raha Charity Foundation exemplifies its commitment to the welfare of Afghanistan's vulnerable populations. Through sustained efforts and a focus on long-term impact, RCF continues to fight against child labor, striving to create a better future for Afghanistan's children. In alignment with its motto, Let's make a positive impact, RCF remains dedicated to making lasting changes in the lives of those it serves.",
+    "button": "Read more"
+  },
+  "contact": {
+    "heading": "Contact Us",
+    "lead": "Have a question or want to support our cause? Contact us today.",
+    "form": {
+      "firstName": {
+        "label": "First name",
+        "error": "First name is required"
+      },
+      "lastName": {
+        "label": "Last name",
+        "error": "Last name is required"
+      },
+      "organization": {
+        "label": "Organization"
+      },
+      "email": {
+        "label": "Email",
+        "error": "Email is required",
+        "patternError": "Email address is invalid"
+      },
+      "phone": {
+        "label": "Phone number",
+        "error": "Phone number is required",
+        "patternError": "Phone number is invalid"
+      },
+      "message": {
+        "label": "Message",
+        "error": "Message is required"
+      },
+      "submit": {
+        "label": "Let's talk",
+        "processing": "Processing..."
+      },
+      "responseMessage": "Data is successfully saved",
+      "processingMessage": "Form data is being processed..."
+    },
+    "FAQ": {
+      "heading": "Frequently asked questions",
+      "lead": "Can't find the answer you're looking for? Reach out to our support team",
+      "1stQuestion": "How can I donate to Raha Charity Foundation?",
+      "1stAnswer": "You can donate online through our website or contact us for other options.",
+      "2ndQuestion": "What programs does Raha Charity Foundation offer?",
+      "2ndAnswer": "We offer various programs including education, healthcare, nutrition, and psychosocial support.",
+      "3rdQuestion": "How can I volunteer with Raha Charity Foundation?",
+      "3rdAnswer": "Fill out our volunteer form on our website and we'll get in touch with you.",
+      "4thQuestion": "How are donations utilized by Raha Charity Foundation?",
+      "4thAnswer": "Donations are used to support our programs and provide assistance to those in need.",
+      "5thQuestion": "Can I sponsor a child through Raha Charity Foundation?",
+      "5thAnswer": "Yes, we have sponsorship programs available. Contact us for more information.",
+      "6thQuestion": "How can I get updates on Raha Charity Foundation's work?",
+      "6thAnswer": "Follow us on social media or our website for regular updates and news."
+    },
+    "getInTouch": {
+      "heading": "Get in touch",
+      "lead": "Reach out to us and be part of something bigger",
+      "collaborate": "Collaborate",
+      "sayHello": "Say Hello"
+    },
+    "location": {
+      "heading": "Locations",
+      "lead": "Find Us and Connect with Our Team",
+      "address": {
+        "heading": "Afghanistan",
+        "1stLine": "Ferdowsi 12, Mokhaberat St.,",
+        "2ndLine": "Herat, Afghanistan"
+      }
+    }
+  },
+  "volunteer": {
+    "heading": "Be a volunteer",
+    "lead": "Join Our Volunteer Team and Make a Difference in Your Community",
+    "form": {
+      "heading": "Personal Information",
+      "lead": "Use a permanent address and phone number where you can be contacted.",
+      "first_name": {
+        "label": "First name",
+        "requiredError": "First name is required",
+        "patternError": "First name should contain only English letters"
+      },
+      "last_name": {
+        "label": "Last name",
+        "requiredError": "Last name is required",
+        "patternError": "Last name should contain only English letters"
+      },
+      "email": {
+        "label": "Email address",
+        "requiredError": "Email is required",
+        "patternError": "Email address is invalid"
+      },
+      "phone": {
+        "label": "Phone number",
+        "requiredError": "Enter your phone number",
+        "patternError": "Phone number is invalid"
+      },
+      "country": {
+        "label": "Country",
+        "requiredError": "Please select where you from",
+        "placeholder": "Please choose your country"
+      },
+      "street_address": {
+        "label": "Street address",
+        "requiredError": "Enter your street address"
+      },
+      "city": {
+        "label": "City",
+        "requiredError": "Enter your city name",
+        "patternError": "Enter a valid city name"
+      },
+      "state_province": {
+        "label": "State / Province",
+        "requiredError": "Enter your province name",
+        "patternError": "Enter a valid province name"
+      },
+      "zip_postal_code": {
+        "label": "ZIP / Postal code",
+        "patternError": "Enter a valid ZIP / Postal code"
+      },
+      "message": {
+        "label": "Message",
+        "error": "Message is required"
+      },
+      "submit": {
+        "savingLabel": "Saving...",
+        "submitLabel": "Submit"
+      },
+      "cancel": {
+        "label": "Cancel"
+      }
+    }
+  },
+  "donate": {
+    "heading": "Donate Today and Make a Difference",
+    "lead": "Support our cause and help transform lives with your generous contribution. Every donation counts.",
+    "form": {
+      "type": {
+        "title": "How would you like to donate?",
+        "description": "We appreciate your support, whether you choose to donate through cash or non-cash options.",
+        "cash": "Cash",
+        "nonCash": "Non-Cash",
+        "error": "Please select a donation type"
+      },
+      "title": "Personal Information",
+      "description": "Use a permanent address and phone number where you can be contacted.",
+      "first_name": {
+        "label": "First name",
+        "error": "First name is required"
+      },
+      "last_name": {
+        "label": "Last name",
+        "error": "Last name is required"
+      },
+      "email": {
+        "label": "Email address",
+        "requiredError": "Email is required",
+        "patternError": "Email address is invalid"
+      },
+      "phone_number": {
+        "label": "Phone number",
+        "requiredError": "Enter your phone number",
+        "patternError": "Enter a valid phone number"
+      },
+      "country": {
+        "label": "Country",
+        "requiredError": "Please select where you from",
+        "placeholder": "Please choose your country"
+      },
+      "street_address": {
+        "label": "Street address",
+        "requiredError": "Enter your street address"
+      },
+      "city": {
+        "label": "City",
+        "requiredError": "Enter your city name",
+        "patternError": "Enter a valid city name"
+      },
+      "state_province": {
+        "label": "State / Province",
+        "requiredError": "Enter your province name",
+        "patternError": "Enter a valid province name"
+      },
+      "zip": {
+        "label": "ZIP / Postal code",
+        "patternError": "Enter a valid ZIP / Postal code"
+      },
+      "message": {
+        "label": "Message",
+        "error": "Message is required"
+      },
+      "submit": {
+        "savingLabel": "Processing...",
+        "submitLabel": "Submit"
+      },
+      "cancel": {
+        "label": "Cancel"
+      }
+    },
+    "responseMessage": "Data is successfully saved",
+    "processingMessage": "Form data is being processed..."
+  },
+  "footer": {
+    "heading": "By pooling our resources, knowledge, and skills, we make meaningful progress towards creating a world that is more just, sustainable, and equitable for all.",
+    "company": {
+      "heading": "Company",
+      "about": "About",
+      "gallery": "Gallery",
+      "contact": "Contact"
+    },
+    "programs": {
+      "heading": "Our Programs",
+      "programs": "Programs"
+    },
+    "support": {
+      "heading": "Support",
+      "donate": "Donate",
+      "volunteer": "Be a volunteer",
+      "boutique": "boutique"
+    },
+    "backToTop": "Back to top",
+    "copyright": "© {date} Raha Charity Foundation. All rights reserved."
+  }
+}

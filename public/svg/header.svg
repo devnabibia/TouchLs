@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.com/svgjs" style="enable-background:new 0 0 0 0" xml:space="preserve" class=""
+    width="520px" height="10rem">
+    <g transform="matrix(1.11,0,0,1.11,-28.160000000000025,-28.36)">
+        <g id="_x34_61_x2C__Columns_x2C__Communication_x2C__Content_x2C__Interface_x2C__User">
+            <g>
+                <g>
+                    <path d="m26 26h460v100h-460z" fill="#57606f" data-original="#57606f" class=""></path>
+                    <g fill="#414a56">
+                        <path
+                            d="m446 86h-190c-5.523 0-10-4.477-10-10s4.477-10 10-10h190c5.522 0 10 4.477 10 10s-4.478 10-10 10z"
+                            fill="#414a56" data-original="#414a56" class=""></path>
+                        <path
+                            d="m76 86h-10c-5.523 0-10-4.477-10-10s4.477-10 10-10h10c5.523 0 10 4.477 10 10s-4.477 10-10 10z"
+                            fill="#414a56" data-original="#414a56" class=""></path>
+                        <path
+                            d="m126 86h-10c-5.523 0-10-4.477-10-10s4.477-10 10-10h10c5.523 0 10 4.477 10 10s-4.477 10-10 10z"
+                            fill="#414a56" data-original="#414a56" class=""></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

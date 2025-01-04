@@ -1,0 +1,124 @@
+{
+  "topNav": {
+    "address": "Ahmadabad, Mashhad, Iran",
+    "phone": "00989961740933",
+    "email": "company@targetline.net",
+    "languages": {
+      "label": "Language",
+      "en": "English",
+      "da": "Persian (Dari)"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "membership": "Membership"
+  },
+  "about": {
+    "boss": "Ali Reza Jafari - Company Manager",
+    "speech": "With 17 years of experience across diverse markets, Targetline has attained unmatched expertise in sales and market psychology. \n\nOur team has enhanced its capabilities by adding new specialists and incorporating knowledge from fields such as coaching, entrepreneurship, talent acquisition, sales, marketing, advertising, psychology, sociology, and philosophy. \n\nThe next phase for Targetline focuses on IT sciences and virtual markets, driven by the recent surge in online sales. Consequently, we have assembled a team of experts in this field to deliver more professional services in website and application design and development. \n\nOur goal is to boost your sales so your customers will never forget you.",
+    "title": "Meet our team",
+    "lead": "The Experts and Innovators Behind Our Success."
+  },
+  "footer": {
+    "heading": "Our goal is to boost your sales so your customers will never forget you. Join us and experience the difference.",
+    "home": "Home",
+    "about": "About",
+    "membership": "Membership",
+    "backToTop": "Back to top",
+    "copyright": "© {date} Targetline. All rights reserved.",
+    "develop": "develop with MarsCoders team.",
+    "cta": "Do you want to increase your selling power?",
+    "ctaLink": "Get in touch"
+  },
+  "partners": {
+    "title": "Companies that have trusted us",
+    "description": "We take pride in our partners and their advancements in innovation.",
+    "seeAll": "See all"
+  },
+  "whatWeDo": {
+    "whatWeDo": "Our services?",
+    "weMakeEverything": "Whatever You Need, We Will Build It for You.",
+    "specializeIn": "We specialize in designing and developing advanced technologies that provide solutions to increase your sales.",
+    "accordion": {
+      "blockchain": {
+        "title": "Business development",
+        "description": "Sales are a key part of your business. Our team offers innovative solutions to boost your business with expertise and dedication.  Trust Targetline and request a consultation today."
+      },
+      "ai": {
+        "title": "Business Coaching and Setup",
+        "description": "Starting a business can be challenging, but with our comprehensive coaching and support services, the process becomes easier and more successful. At Targetline, we assist you through every step, from planning to execution. Request a consultation today to get started."
+      },
+      "web": {
+        "title": "Web Development",
+        "description": "Did you know a website is a money-making machine? If your business doesn’t have one yet, you’re missing out on a valuable asset.  At Targetline, we offer top-notch web development. Request a consultation now to get your business online."
+      },
+      "dataScience": {
+        "title": "Data Science",
+        "description": "Data Science involves analyzing data to extract valuable insights and improve decision-making. At Targetline, we help you uncover hidden patterns and enhance your business decisions through precise data analysis. Request a consultation today."
+      },
+
+      "mobile": {
+        "title": "App Development",
+        "description": "An app can significantly enhance your business. At Targetline, our team designs custom applications tailored to your specific needs. Request a consultation today to discover how Targetline can boost your business."
+      },
+
+      "uiUx": {
+        "title": "Ui/Ux Design",
+        "description": "At Targetline, we create beautiful user interfaces and optimized user experiences to ensure smooth and satisfying interactions for your users. For enhancing your product’s user experience, request a consultation today."
+      }
+    }
+  },
+  "hero": {
+    "title": "Our goal is to boost your sales",
+    "description": "Your customers will never forget you.",
+    "buttonText": "Get in touch"
+  },
+
+  "contact": {
+    "heading": "Get in Touch",
+    "lead": "For more information or to collaborate with Targetline, you can contact us through the following details. Our team is ready to answer your inquiries and provide services.",
+    "address": "Ahmadabad, Mashhad, Iran",
+    "form": {
+      "firstName": {
+        "label": "First name",
+        "error": "First name is required"
+      },
+      "lastName": {
+        "label": "Last name",
+        "error": "Last name is required"
+      },
+      "email": {
+        "label": "Email",
+        "error": "Email is required",
+        "patternError": "Email address is invalid"
+      },
+      "phone": {
+        "label": "Phone number",
+        "error": "Phone number is required",
+        "patternError": "Phone number is invalid"
+      },
+
+      "message": {
+        "label": "Message",
+        "error": "Message is required"
+      },
+      "submit": {
+        "label": "Submit",
+        "processing": "Processing..."
+      },
+      "responseMessage": "Data is successfully saved",
+      "processingMessage": "Form data is being processed..."
+    },
+
+    "location": {
+      "heading": "location",
+      "lead": "Find Us and Connect with Our Team",
+      "address": {
+        "heading": "Iran",
+        "1stLine": "Midan Imam Khomini",
+        "2ndLine": "Tehran, Iran"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+name: Development Environment Deployment workflow
+
+on:
+  push:
+    branches:
+      - develop
+jobs:
+  build:
+    runs-on: [self-hosted]
+
+    strategy:
+      matrix:
+        node-version: [18.x]
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+      - run: npm install -g pnpm
+      - run: pnpm install
+      - name: Update the server code using Docker Compose
+        run: docker compose -f docker-compose.dev.yml up --build -d
