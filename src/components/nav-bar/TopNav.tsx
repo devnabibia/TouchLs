@@ -50,7 +50,7 @@ export default function TopNav() {
                   <p className='flex items-center text-xs text-gray-100 dir-ltr gap-x-1'>
                     <PhoneIcon className='size-4 rtl:-rotate-90 ltr:rotate-0' />
                     <Link
-                      href='tel:00989961740933'
+                      href='tel:0742692485'
                       className='font-medium tabular-nums'
                     >
                       {t('phone')}
@@ -59,7 +59,7 @@ export default function TopNav() {
                   <p className='flex items-center text-xs text-gray-100 dir-ltr gap-x-1'>
                     <EnvelopeIcon className='size-4' />
                     <Link
-                      href='mailto:company@targetline.net'
+                      href='mailto:nangendodennis@gmail.com'
                       className='font-sans font-medium'
                     >
                       {t('email')}
@@ -76,7 +76,7 @@ export default function TopNav() {
                     <a
                       target='_blank'
                       rel='noreferrer'
-                      href='https://github.com/Targetlinecompany'
+                      href='https://github.com/devnabibia'
                       aria-label='Visit us on Facebook'
                     >
                       <GithubIcon className='w-4 h-4 text-gray-100 hover:text-white' />
@@ -84,7 +84,7 @@ export default function TopNav() {
                     <a
                       target='_blank'
                       rel='noreferrer'
-                      href='https://wa.me/00989961740933'
+                      href='https://wa.me/00989961'
                       aria-label='Visit us on Instagram'
                     >
                       <WhatsAppIcon className='w-4 h-4 text-gray-100 hover:text-white' />
@@ -92,7 +92,7 @@ export default function TopNav() {
                     <a
                       target='_blank'
                       rel='noreferrer'
-                      href='https://t.me/targetlincompany'
+                      href='https://t.me/devnabibia'
                       aria-label='Visit us on Telegram'
                     >
                       <TelegramIcon className='w-4 h-4 text-gray-100 hover:text-white' />
