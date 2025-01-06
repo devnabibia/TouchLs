@@ -32,7 +32,8 @@ export default function TopNav() {
             <div className='relative flex items-center justify-between h-10'>
               <div className='absolute inset-y-0 left-0 flex items-center sm:hidden'>
                 {/* Mobile menu button */}
-                <Disclosure.Button className='inline-flex items-center justify-center p-2 text-gray-400 rounded-md hover:bg-gray-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white'>
+                <Disclosure.Button className='inline-flex items-center justify-center p-2 text
+                -gray-400 rounded-md hover:bg-gray-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white'>
                   <span className='sr-only'>Open main menu</span>
                   {open ? (
                     <XMarkIcon className='block size-6' aria-hidden='true' />
@@ -43,10 +44,6 @@ export default function TopNav() {
               </div>
               <div className='flex items-center justify-center flex-1 sm:items-stretch sm:justify-between'>
                 <div className='flex items-center flex-shrink-0 gap-x-12 gap-y-2'>
-                  <p className='flex items-center text-xs text-gray-100 gap-x-1'>
-                    <MapPinIcon className='size-4' />
-                    <span className='font-medium'>{t('address')}</span>
-                  </p>
                   <p className='flex items-center text-xs text-gray-100 dir-ltr gap-x-1'>
                     <PhoneIcon className='size-4 rtl:-rotate-90 ltr:rotate-0' />
                     <Link

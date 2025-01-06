@@ -187,7 +187,7 @@ export default function ContactForm() {
                 </dt>
                 <dd>
                   <a
-                    href='mailto:company@targetline.net'
+                    href='mailto:nangendodennis@gmail.com'
                     className='hover:text-white'
                   >
                     nangendodennis@gmail.com

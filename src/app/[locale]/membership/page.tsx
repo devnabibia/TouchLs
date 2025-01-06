@@ -7,7 +7,7 @@ export const metadata = {
   description:
     'Have a question or want to support our cause? Contact us today.',
   keywords:
-    'Raha Charity Foundation contact, get in touch, support inquiries, volunteer inquiries, donate inquiries, Herat Afghanistan, email, phone number, nonprofit contact, charity contact',
+    'TouchLs, get in touch, support inquiries, volunteer inquiries, donate inquiries, Nairobi Kenya, email, phone number, nonprofit contact, charity contact',
   alternates: {
     canonical: '/en/contact',
     languages: {
@@ -16,13 +16,13 @@ export const metadata = {
     },
   },
   openGraph: {
-    title: 'Contact Us - Raha Charity Foundation',
+    title: 'Contact Us - TouchLs',
     description:
       'Have a question or want to support our cause? Contact us today.',
     images: 'https://www.rahafoundation.af/og-image.png',
   },
   twitter: {
-    title: 'Contact Us - Raha Charity Foundation',
+    title: 'Contact Us - TouchLs',
     description:
       'Have a question or want to support our cause? Contact us today.',
     images: 'https://www.rahafoundation.af/og-image.png',
